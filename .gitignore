@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+# Except
+!.gitignore
+!README.md
+!sway
+!waybar
+!wofi
+
