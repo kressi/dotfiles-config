@@ -4,6 +4,7 @@
 # Except
 !.gitignore
 !README.md
+!chromium-flags.conf
 !sway
 !waybar
 !wofi
