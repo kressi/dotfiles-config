@@ -60,6 +60,8 @@
     },
     "clock": {
         "interval": 30,
-        "format": "{:%Y-%m-%d  %H:%m}"
+        "format": "{:%Y-%m-%d  %H:%m}",
+        "tooltip": false,
+        "on-click": "GTK_THEME=Adwaita:dark gsimplecal"
     }
 }

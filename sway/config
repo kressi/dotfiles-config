@@ -234,6 +234,7 @@ bindsym Print exec grim ~/pictures/screenshots/$(date +%Y-%m-%d_%H-%m-%s).png
 bindsym $mod+Print exec grim -g "$(slurp)" ~/pictures/screenshots/$(date +%Y-%m-%d_%H-%m-%s).png
 
 for_window [app_id="pavucontrol"] floating enable
+for_window [app_id="gsimplecal"] floating enable, border pixel 2, move position 1352 0
 
 #
 # Status Bar:

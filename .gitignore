@@ -5,6 +5,8 @@
 !.gitignore
 !README.md
 !chromium-flags.conf
+!gsimplecal
+!environment.d
 !sway
 !waybar
 !wofi
