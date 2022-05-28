@@ -1,3 +1,4 @@
 show_week_numbers=1
 mainwindow_position=none
+close_on_unfocus=0
 
